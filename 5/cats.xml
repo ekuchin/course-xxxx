@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='cats.xsl'?>
+<house>
+  <cat name="Мурзик" breed="Манул" sex="M" weight="12" color="Серый" face="Сердитая" character="Наглый"/>
+  <cat name="Эдуард" breed="Британская" sex="M" weight="7" color="Серый" face="Умная" character="Добрый"/>
+  <cat name="Рамзес" breed="Сфинкс" sex="M" weight="2" color="Лысый" face="Сморщенная" character="Злой"/>
+  <cat name="Дариус" breed="Персидская" sex="M" weight="8" color="Рыжий" face="Хитрая" character="Наглый"/>
+  <cat name="Бусинка" breed="Ангорская" sex="F" weight="5" color="Серый" face="Пушистая" character="Добрый"/>
+  <cat name="Багира" breed="Бурманская" sex="F" weight="5" color="Шоколадный" face="Хитрая" character="Добрый"/>
+  <cat name="Барсик" breed="Беспородная" sex="M" weight="6" color="Серый" face="Хитрая" character="Ласковый"/>
+  <cat name="Семен" breed="Шотландец" sex="M" weight="4" color="Серый" face="Умная" character="Наглый"/>
+  <cat name="Мурка" breed="Беспородная" sex="F" weight="4" color="Серый" face="Умная" character="Ласковый"/>\
+</house>

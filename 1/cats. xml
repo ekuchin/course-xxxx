@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<house xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="cats.xsd">
+        <!-- Список котов -->
+        <cat name="Мурка" color="Трехцветная">Наташа, проснись</cat>
+        <cat name="Мурзик" color="Белый">Там опять про нас мемы</cat>
+        <cat name="Барсик" color="Рыжий">Много мемов</cat>
+        <cat name="Дариус" color="Белый">Очень-очень много мемов, Наташ</cat>
+</house>
